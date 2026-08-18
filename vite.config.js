@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react()],
   // GitHub Pages serves project sites from /<repository-name>/.
   // The deployment workflow supplies this value automatically.
-  base: process.env.VITE_BASE_PATH || '/',
+  base: '/CAREER-COMPASS/',
 })
